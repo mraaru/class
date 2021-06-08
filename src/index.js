@@ -5,7 +5,7 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
- <h1>hello world!</h1>,
+  <h1>hello world</h1>,
   document.getElementById('root')
 );
 
